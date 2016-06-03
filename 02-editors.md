@@ -59,7 +59,7 @@ We will also use Jupyter (IPython) notebooks, but this does not remove the need 
 
 What terminal editor will you use? How did you make your decision?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+I chose Emacs because I have seen it recommended a lot.
 
 --
 
@@ -67,6 +67,6 @@ What terminal editor will you use? How did you make your decision?
 
 What graphical editor will you use? How did you make your decision? What are some interesting features of your editor? What are some useful keyboard shortcuts for your editor? How do you customize your editor?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+I am also using Emacs for this because it seems easier to use the same one. One interesting feature of Emacs is that it has Tetris... others are that it can search documents and compare differences, and can use regular expressions for search and replace.  It has different modes for editing different languages (e.g. Python mode).  Some basic commands are C-v to move to a new page, C-p and C-n to move up and down lines, and C-f and C-b to move forward and backward.  Also C-k to cut a line, C-y to paste, and C-/ to undo.  There are many ways to customize, such as displaying text differently, or change variables to make commands more convenient.
 
  
