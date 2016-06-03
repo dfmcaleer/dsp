@@ -46,7 +46,7 @@ cross-platform.
 
 Did you install Python 2 or 3? Why?  
 
-I installed Python 3 because some Google research suggested it would be better, and it is the future of the language.
+I installed Python 2 because it is what I had already been using and because I have read that it has better documentation and libraries.
 
 ###Q2. Which Python Version Installed   
 
