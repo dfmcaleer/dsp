@@ -65,6 +65,7 @@ ls -lah  List with long format and readable file size for all files including hi
 ls -t  Sort list by time and date.
 
 ls -Glp  The -G option enables colorized output (links will be blue), -l is long format, and -p adds / at the end of the directory name.
+
 ---
 
 ###Q3.  More List Files in Unix  
